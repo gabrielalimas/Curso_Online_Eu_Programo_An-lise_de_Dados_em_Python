@@ -14,7 +14,8 @@ Aqui, falo um pouco sobre o curso de Análise de Dados que realizei pela PrograM
 * Looker
 
 # Dashboard
-https://lookerstudio.google.com/s/iMaEpHILeYc
+[Clicando aqui](https://lookerstudio.google.com/s/iMaEpHILeYc), é possível acessar o dashboard que fiz no fim do curso, na ferramenta Looker.
+
 
 # :mortar_board: Certificado
-https://euprogramo.thinkific.com/certificates/ecpcpt8sld
+[Clicando aqui](https://euprogramo.thinkific.com/certificates/ecpcpt8sld), é possível acessar o meu certificado do curso.
